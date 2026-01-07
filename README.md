@@ -1,1 +1,1 @@
-# CompitoAi
+# Questa landing page è progettata per presentare l’Open Day dei corsi IFTS, fornendo informazioni su corsi, agenda, opportunità lavorative e permettendo agli utenti di iscriversi direttamente online.
